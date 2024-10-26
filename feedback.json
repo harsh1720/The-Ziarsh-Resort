@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "customerName": "Alice Johnson",
+    "rating": 4,
+    "comment": "Great stay, friendly staff, and beautiful views!"
+  },
+  {
+    "id": "2",
+    "customerName": "Bob Smith",
+    "rating": 5,
+    "comment": "Excellent service, delicious food, and a relaxing atmosphere."
+  },
+  {
+    "id": "3",
+    "customerName": "Catherine Lee",
+    "rating": 3,
+    "comment": "The room was comfortable, but the pool could be cleaner."
+  }
+]

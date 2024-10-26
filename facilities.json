@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Swimming Pool",
+    "description": "A large outdoor swimming pool with a separate children's area."
+  },
+  {
+    "id": "2",
+    "name": "Gymnasium",
+    "description": "A well-equipped gymnasium with modern fitness equipment."
+  },
+  {
+    "id": "3",
+    "name": "Spa",
+    "description": "A relaxing spa offering a variety of treatments and massages."
+  },
+  {
+    "id": "4",
+    "name": "Restaurant",
+    "description": "A fine-dining restaurant serving international cuisine."
+  },
+  {
+    "id": "5",
+    "name": "Bar",
+    "description": "A cozy bar offering a wide selection of drinks and snacks."
+  }
+]

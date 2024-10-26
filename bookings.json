@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "guestName": "Alice Johnson",
+    "roomNumber": 101,
+    "roomCategory": "Duplex Room", 
+    "checkInDate": "2024-11-01",
+    "checkOutDate": "2024-11-05"
+  },
+  {
+    "id": "2",
+    "guestName": "Bob Smith",
+    "roomNumber": 102,
+    "roomCategory": "Duplex Room", 
+    "checkInDate": "2024-11-03",
+    "checkOutDate": "2024-11-07"
+  },
+  {
+    "id": "3",
+    "guestName": "Catherine Lee",
+    "roomNumber": 103,
+    "roomCategory": "Duplex Room", 
+    "checkInDate": "2024-11-05",
+    "checkOutDate": "2024-11-10"
+  },
+  {
+    "id": "4",
+    "guestName": "Daniel Brown",
+    "roomNumber": 104,
+    "roomCategory": "Duplex Room",
+    "checkInDate": "2024-11-06",
+    "checkOutDate": "2024-11-09"
+  },
+  {
+    "id": "5",
+    "guestName": "Harsh Tamakuwala",
+    "roomNumber": 222,
+    "roomCategory": "Duplex Room", 
+    "checkInDate": "2024-12-01",
+    "checkOutDate": "2025-01-31",
+    "numberOfGuests": 1,
+    "status": "confirmed"
+  }
+]
